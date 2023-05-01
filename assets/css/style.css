@@ -1,3 +1,4 @@
+/* css code has been condensed as much as possible and reordered so the elements go in order of appearance in the html*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header contains the styling for the title and site links*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ header h1 .horiseon {
     color: #d9dcd6;
 }
 
+/*nav tags style the 3 links at the top of the website*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*renamed class to background-image for clarification - handles styling for background image*/
 .background-image {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/*styles the main and main-section tags/classes for the 3 main content boxes on the page*/
 main {
     width: 75%;
     display: inline-block;
@@ -93,6 +98,7 @@ main {
     margin-left: 25px;
 }
 
+/*styles the vertical box and its content on the far right side of the page*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +127,7 @@ aside {
     max-width: 150px;
 }
 
+/*styles the ending footer*/
 footer {
     padding: 30px;
     clear: both;
