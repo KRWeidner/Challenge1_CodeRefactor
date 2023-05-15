@@ -7,7 +7,8 @@ that the site will follow accessibility standards in accordance with user story 
 
 ## URL Link
 
-https://krweidner.github.io/Challenge1_CodeRefactor/
+https://krweidner.github.io/HoriseonSampleSite
+/
 
 ## Usage
 
